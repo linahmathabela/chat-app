@@ -327,3 +327,29 @@
       }
     }
   }
+
+  .error-page {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .error-container {
+    text-align: center;
+    text-transform: capitalize;
+  }
+
+  .btn{
+    border: 2px solid black;
+    padding: 0.45rem 0.8rem;
+    cursor: pointer;
+  font-size: 0.8rem;
+  display: inline-block;
+  color: #7b96ec;
+  background-color: #e90a9f;
+  font-size: 0.8rem;
+  display: inline-block;
+  }
+
+  .section {
+    padding: 5rem 0;
+  }
